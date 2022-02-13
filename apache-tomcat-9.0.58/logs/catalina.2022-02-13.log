@@ -1,0 +1,20 @@
+13-Feb-2022 21:45:09.580 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.58
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 15 2022 14:37:38 UTC
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.58.0
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_211\jre
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\cryst\OneDrive\Documentos\tasks-frontend\apache-tomcat-9.0.58
+13-Feb-2022 21:45:09.596 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\cryst\OneDrive\Documentos\tasks-frontend\apache-tomcat-9.0.58
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\cryst\OneDrive\Documentos\tasks-frontend\apache-tomcat-9.0.58\conf\logging.properties
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\cryst\OneDrive\Documentos\tasks-frontend\apache-tomcat-9.0.58
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\cryst\OneDrive\Documentos\tasks-frontend\apache-tomcat-9.0.58
+13-Feb-2022 21:45:09.611 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\cryst\OneDrive\Documentos\tasks-frontend\apache-tomcat-9.0.58\temp
+13-Feb-2022 21:45:09.627 INFORMAÇÕES [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.4\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\cryst\AppData\Local\Microsoft\WindowsApps;C:\Users\cryst\AppData\Roaming\npm;C:\Users\cryst\AppData\Local\Programs\Microsoft VS Code\bin;.]
